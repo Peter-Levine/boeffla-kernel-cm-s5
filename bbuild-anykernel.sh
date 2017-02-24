@@ -12,7 +12,7 @@
 
 BOEFFLA_VERSION="1.0-test-CM14.1-g900f"
 
-TOOLCHAIN="/opt/toolchains/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-"
+TOOLCHAIN="/usr/bin/armv7a-hardfloat-linux-gnueabi-"
 ARCHITECTURE=arm
 COMPILER_FLAGS_KERNEL=""
 COMPILER_FLAGS_MODULE=""
