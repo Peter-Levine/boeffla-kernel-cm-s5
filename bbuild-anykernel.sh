@@ -10,7 +10,7 @@
 # Parameters to be configured manually
 #######################################
 
-BOEFFLA_VERSION="1.0-test-CM14.1-g900f"
+BOEFFLA_VERSION="1.0-test-CM14.1-g900v"
 
 TOOLCHAIN="/usr/bin/armv7a-hardfloat-linux-gnueabi-"
 ARCHITECTURE=arm
